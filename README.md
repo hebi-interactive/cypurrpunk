@@ -1,1 +1,1 @@
-# Cypurrpunk
+![Cypurrpunk](Cypurrpunk_logo.png)
